@@ -8,7 +8,7 @@
 - [X] Utilização de Bando de Dados H2
 - [X] Validação com Bean Validation
 - [X] Proteção de dados usando Spring Security
-- [X] Testes automatizados
+- [X] Testes Automatizados
 - [X] Deploy utilizando Docker
 
 <h3 id:"Caract"> Back end:</h3>
