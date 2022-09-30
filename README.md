@@ -16,7 +16,7 @@
 - [X] Cadastrar, Deletar, Alterar e Exibir Cursos, Tópicos, Mensagens, Usuarios e Perfis
 - [X] Validar e autenticar Login de Usuarios
 - [X] Verificar se topico foi respondido
-- [X] Testar persistência no banco, métodos do controller e service
+- [X] Testar persistência no banco de dados, métodos do controller e service
 
 <h3 id:"BD"> Banco de Dados:</h3>
 
